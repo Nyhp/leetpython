@@ -1,2 +1,2 @@
 # leetpython
-saving code from leetcode contest
+attempt coding from leetcode contest
