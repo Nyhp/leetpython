@@ -34,3 +34,5 @@ def getMaxFunctionValue(receiver, k):
         if(fsum > summax):
             summax = fsum
     return summax
+
+
